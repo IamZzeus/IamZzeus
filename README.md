@@ -9,14 +9,11 @@
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <h3>🌐 Web, Móvil y Backend</h3>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,php,laravel,cs,dotnet&theme=dark" alt="Web & Mobile Skills" />
+  <h3>🌐 Web y Backend</h3>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel&theme=dark" alt="Web & Backend Skills" />
 
-  <h3>🗄️ Bases de Datos y DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,ubuntu,linux,docker,nginx&theme=dark" alt="Databases & DevOps" />
-
-  <h3>🤖 IoT, IA y Algoritmia</h3>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,c,tensorflow,opencv,haskell&theme=dark" alt="IoT & AI" />
+  <h3>🗄️ Bases de Datos y Entornos</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,linux&theme=dark" alt="Databases & Environments" />
 </div>
 
 ---

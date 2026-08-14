@@ -22,8 +22,8 @@
 
 * 💻 Actualmente enfocado en el desarrollo de aplicaciones robustas usando **Laravel, ASP.NET Core y Node.js**.
 * 🔌 Apasionado por el **Internet de las Cosas (IoT)**, diseñando sistemas con ESP32 y sensores ambientales.
-* 🐧 Experiencia administrando entornos de servidores en **Ubuntu** (DNS, DHCP, Nginx, Docker, Zabbix).
-* ⚙️ Exploro constantemente nuevas áreas como el modelado 3D, algoritmos de IA (TensorFlow) y arquitecturas en la nube.
+* 🐧 Experiencia administrando entornos de servidores en **Ubuntu** (DNS, DHCP, Nginx, Zabbix).
+* ⚙️ Exploro constantemente nuevas áreas como el modelado 3D y arquitecturas en la nube.
 
 <br>
 
